@@ -32,29 +32,7 @@
 
 ---
 ### About
-<p>Hello! I'm Rehad Hasan Shawn, an aspiring Full Stack Web Developer and a student currently pursuing a Diploma in Engineering at Pabna Polytechnic Institute, Pabna, Bangladesh. I specialize in full-stack development and work on the MERN stack: MongoDB, Express, React, Node.js. I love to create innovative and user-friendly web applications, and always try to learn about new technologies.</p>
-
-<p>My development journey started with projects like a restaurant ordering system & single e-commerce store. I have worked on other personal and professional projects. I enjoy diving into new frameworks and technologies and look forward to more web development learning and building.</p>
-
-<p>Take a look around the repositories and let me know if you are interested in collaboration.</p>
-
-### Working Area
-1. Business Website
-2. Blog Website
-3. E-commerce Website
-4. Educational Website
-5. Medical Website
-6. Food Delivery Website
-7. Hotel Booking Website
-8. Portfolio Website
-
-### Completed R&D Past Years:
-- Best practices for Restful API & web application development.
-- Best practices for single page web application development.
-- Cross platform development
-- High performance & reusable JavaScript component development.
-- Web application optimization to reduce server load.
-- Best Web security practices
+<p?>Hi, this is Rehad. I am a driven and meticulous Full-Stack MERN Developer with the capability to build scalable and user-friendly web applications. Skilled in MongoDB, Express.js, React, and Node.js, I love turning innovative ideas into functional, high-performance digital solutions. Building tremendous user experiences while architecting appropriate backend systems is something I am very passionate about. Let's connect and make something awesome together!</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehadhasan&theme=tokyonight)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rehadhasan&theme=tokyonight)](https://github.com/rehadhasan/github-readme-stats)
