@@ -32,7 +32,7 @@
 
 ---
 ### About
-<p?>Hi, this is Rehad. I am a driven and meticulous Full-Stack MERN Developer with the capability to build scalable and user-friendly web applications. Skilled in MongoDB, Express.js, React, and Node.js, I love turning innovative ideas into functional, high-performance digital solutions. Building tremendous user experiences while architecting appropriate backend systems is something I am very passionate about. Let's connect and make something awesome together!</p>
+<p>Hi, this is Rehad. I am a driven and meticulous Full-Stack MERN Developer with the capability to build scalable and user-friendly web applications. Skilled in MongoDB, Express.js, React, and Node.js, I love turning innovative ideas into functional, high-performance digital solutions. Building tremendous user experiences while architecting appropriate backend systems is something I am very passionate about. Let's connect and make something awesome together!</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehadhasan&theme=tokyonight)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rehadhasan&theme=tokyonight)](https://github.com/rehadhasan/github-readme-stats)
