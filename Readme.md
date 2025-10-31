@@ -9,7 +9,7 @@
 [![Facebook](./FACEBOOK.jpg)](https://www.facebook.com/rehadhasan.bd)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehadhasan&theme=tokyonight" alt="rehadhasan" />
+  <img src="https://streak-stats.demolab.com/?user=rehadhasan&theme=tokyonight" alt="rehadhasan" />
 </p>
 
 ---
