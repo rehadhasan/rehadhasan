@@ -2,7 +2,7 @@
 
 ---
 
-### MERN Stack Developer
+### 🚀 MERN Stack Developer
 
 [![Website](./WEBSITE.jpg)](https://rehadhasan.com)
 [![LinkedIn](./LINKEDIN.jpg)](https://www.linkedin.com/in/rehadhasan)
