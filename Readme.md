@@ -8,7 +8,7 @@
 [![LinkedIn](./LINKEDIN.jpg)](https://www.linkedin.com/in/rehadhasan)
 [![Facebook](./FACEBOOK.jpg)](https://www.facebook.com/rehadhasan.bd)
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com/?user=rehadhasan&theme=tokyonight" alt="rehadhasan" />
 </p>
 
