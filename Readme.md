@@ -9,7 +9,10 @@
 [![Facebook](./FACEBOOK.jpg)](https://www.facebook.com/rehadhasan.bd)
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=rehadhasan&theme=tokyonight" alt="rehadhasan" />
+  <img
+    src="https://streak-stats.demolab.com?user=rehadhasan&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -75,7 +78,20 @@ If you’re looking for a dedicated developer who can bring ideas to life — le
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rehadhasan&theme=tokyonight)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rehadhasan&theme=tokyonight)](https://github.com/rehadhasan/github-readme-stats)
+<!-- Top Languages -->
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehadhasan&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
+<!-- GitHub Stats -->
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rehadhasan&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
 
 ---
